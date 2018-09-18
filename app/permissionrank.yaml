@@ -1,0 +1,14 @@
+player:
+  id: 1
+  label: Player
+  badge: NIL
+
+bronze helper:
+  id: 2
+  label: Bronze Helper
+  badge: STF_HELP_BRZ
+
+silver helper:
+  id: 3
+  label: Silver Helper
+  badge: STF_HELP_SLV
